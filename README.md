@@ -1,8 +1,7 @@
 <p>• Hiya I’m @Haleynoelle</p>
 <p>• I’m interested in full-stack web development</p>
 <p>• I’m currently learning: JavaScript;</p>
-<p>• My current project: building a calculator to help 
-  ceramicists predict the amount of clay needed for their project!</p>
+<p>• My current project: a calculator for ceramicists!</p>
   
 
 <!---
