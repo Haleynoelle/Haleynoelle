@@ -1,7 +1,7 @@
 <p>• @Haleynoelle</p>
 <p>• Full-Stack Web Development</p>
-<p>• Currently Learning: JavaScript;</p>
-<p>• Current Project: A Database for Ceramicists</p>
+<p>• Currently Learning: React;</p>
+<p>• Current Projects: Clay Calculator & Clay Catalog</p>
   
 
 <!---
